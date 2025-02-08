@@ -9,6 +9,11 @@
   --color-neutral-light-grey: hsl(0, 0%, 86%); 
   --color-neutral-smokey-grey: hsl(0, 1%, 44%);
   --color-neutral-offblack: hsl(0, 0%, 8%); 
+  --radius-8xl: 150px;
+       }
+
+       :root {
+        background-color: var(--color-neutral-light-grey);
        }
          
 
